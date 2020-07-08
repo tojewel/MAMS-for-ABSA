@@ -1,4 +1,4 @@
-pytorch==1.1.0
+torch==1.1.0
 spacy==2.1.8
 pytorch-pretrained-bert==0.6.2
 adabound==0.0.5
